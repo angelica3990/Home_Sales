@@ -18,5 +18,6 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 
 - What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+
 ![image](https://user-images.githubusercontent.com/62813833/230703235-b7b44468-11f2-4e51-9bc2-599351a60ce9.png)
 

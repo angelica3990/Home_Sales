@@ -8,10 +8,12 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 ![image](https://user-images.githubusercontent.com/62813833/230703208-277d026a-7e0d-4de0-bf98-0d1f5e55fbad.png)
 
 - What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+
 ![image](https://user-images.githubusercontent.com/62813833/230703215-0d99d16d-6eb4-4bee-94b7-780d963959fb.png)
 
 
 - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+
 ![image](https://user-images.githubusercontent.com/62813833/230703226-220a4d35-f5a9-4b5d-86a6-bfb046ef0312.png)
 
 
